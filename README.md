@@ -406,7 +406,7 @@ Replace the placeholders with the actual names and student IDs before final subm
 | Member 3 | **[Name / ID]** | Verification Agent and claim/evidence verification |
 | Member 4 | **[Name / ID]** | Frontend interface and user experience |
 
-##My Contribution — Analysis Agent & LLM Integration
+## My Contribution — Analysis Agent & LLM Integration
 
 My contribution focused on the Analysis Agent and its integration with the Google Gemini LLM. This included working on prompt design, structured research-analysis outputs, and the generation of summaries, key findings, methods/models, and conclusions from retrieved scientific evidence.
 
