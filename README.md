@@ -1,5 +1,13 @@
 # ResoMind — Agentic AI Scientific Research System
 
+<p align="center">
+  <img
+    src="docs/images/ResoMind.png"
+    alt="ResoMind — Agentic AI Scientific Research System"
+    width="100%"
+  />
+</p>
+
 ResoMind is a multi-agent scientific research assistant developed for the **Information Retrieval and Web Analytics (IT3041)** group assignment. The system helps users upload scientific PDF papers, retrieve relevant evidence, generate a structured analysis with Google Gemini, and verify generated claims against the retrieved evidence.
 
 > **Academic prototype:** ResoMind is designed to support researcher review. Retrieval scores and verification labels should not be interpreted as scientific truth, probability, or accuracy percentages.
